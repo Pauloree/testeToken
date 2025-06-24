@@ -1,2 +1,2 @@
 # testeToken
-Estudos sobre token temporário
+Estudos sobre token temporário utilizando JwtBearer.
